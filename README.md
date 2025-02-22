@@ -15,4 +15,4 @@
 ## Установка
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/my_bank_operations_project.git
+   git clone https://github.com/AndreyStyuhin/Advanced-Git.git
